@@ -5,11 +5,6 @@
       <change afterPath="$PROJECT_DIR$/../practic/.idea/practic.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../adil" beforeDir="false" afterPath="$PROJECT_DIR$/../adil" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/templates/book/publisher_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/templates/book/publisher_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../portfolio-project" beforeDir="false" afterPath="$PROJECT_DIR$/../portfolio-project" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -386,7 +381,7 @@
       <workItem from="1553668209077" duration="54701000" />
       <workItem from="1553839884838" duration="20413000" />
       <workItem from="1553948426657" duration="12200000" />
-      <workItem from="1554093110464" duration="42602000" />
+      <workItem from="1554093110464" duration="43817000" />
     </task>
     <servers />
   </component>
@@ -423,12 +418,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="238399000" />
+    <option name="totallyTimeSpent" value="239614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4977778" visible="true" weight="0.24015151" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4977778" visible="true" weight="0.24015151" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50222224" side_tool="true" weight="0.24015151" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -442,7 +437,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31390134" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31390134" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32735425" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
