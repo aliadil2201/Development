@@ -1,0 +1,18 @@
+[run]
+source=.
+omit =
+    */migrations/*
+    */site-packages/*
+    */dist-packages/*
+    book/__init__.py
+    book/admin.py
+    book/apps.py
+    book/forms.py
+    book/tests.py
+    book/urls.py
+    books/__init__.py
+    books/settings.py
+    books/urls.py
+    books/wsgi.py
+    book/test/__init__.py
+    manage.py

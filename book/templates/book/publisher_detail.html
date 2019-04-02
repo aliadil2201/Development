@@ -1,0 +1,9 @@
+<h1>Publisher Detail</h1>
+
+<h3>Publisher Name: {{ object.name }}</h3>
+<h4>Publisher Address: {{ object.address }}</h4>
+<h4>Publisher List: {{ object.city }}</h4>
+<h4>Publisher state_province: {{ object.state_province }}</h4>
+<h4>Publisher Country: {{ object.country }}</h4>
+<h4>Publisher Website{{ object.website }}</h4>
+<a href="{% url 'books:publisher_list' %}">Back To Publisher List</a>

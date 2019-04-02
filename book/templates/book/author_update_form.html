@@ -1,0 +1,6 @@
+<h1>Author Update</h1>
+<form method="post">{% csrf_token %}
+    {{ form.as_p }}
+    <input type="submit" value="Update">
+</form>
+<a href="{% url 'books:home'%}">back to home</a>

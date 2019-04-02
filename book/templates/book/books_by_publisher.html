@@ -1,0 +1,10 @@
+{% block content %}
+    <h2>Books By Publisher</h2>
+    <h2>Publisher {{ publisher.name }}</h2>
+        {% for book in object_list %}
+
+            <li>{{ book.title }}</li>
+            {{ book.publication_date }}<br/>
+        {% endfor %}
+    <a href="{% url 'books:book_list' %}">Back To Publisher List</a>
+{% endblock %}
